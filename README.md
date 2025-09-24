@@ -51,8 +51,5 @@ Visual comparison of the forecasted electricity consumption for SARIMA and ETS m
 
 *Blue line:* SARIMA Forecast  
 *Green line:* ETS Forecast  
-*Black line:* Historical Consumption  
 
 
-```bash
-pip install pandas numpy matplotlib scikit-learn statsforecast
